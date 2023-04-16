@@ -10,7 +10,6 @@
 	path = src/qonlinetranslator
 	url = https://github.com/veksha/QOnlineTranslator.git
 	branch = patch-1
-	ignore = dirty
 [submodule "src/qgittag"]
 	path = src/qgittag
 	url = https://github.com/crow-translate/QGitTag.git
