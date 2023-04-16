@@ -8,7 +8,8 @@
 	ignore = dirty
 [submodule "src/qonlinetranslator"]
 	path = src/qonlinetranslator
-	url = https://github.com/crow-translate/QOnlineTranslator.git
+	url = https://github.com/veksha/QOnlineTranslator.git
+	branch = patch-1
 	ignore = dirty
 [submodule "src/qgittag"]
 	path = src/qgittag
